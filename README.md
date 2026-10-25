@@ -1,6 +1,6 @@
 # Password Strength Tester
 A website to check password strength based on industry best practices.  
-https://ttb3ar.github.io/passtrength/  
+https://ericeisaman.github.io/passtrength/  
   
 **Features include:**  
 Light/Dark theme toggling  

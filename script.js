@@ -23,7 +23,7 @@ const translations = {
     feedback: ["Very weak", "Weak", "Fair", "Strong", "Very strong"],
     pwnedWarning: "⚠️ This password has appeared in {count} breaches!",
     pwnedSafe: "✅ This password has not appeared in known breaches.",
-    footer: "Created by TTB3AR",
+    footer: "Created by ericeisaman",
     apiCredit: "Breach data provided by",
     showPassword: "Show password",
     hidePassword: "Hide password"
@@ -36,7 +36,7 @@ const translations = {
     feedback: ["とても弱い", "弱い", "普通", "強い", "とても強い"],
     pwnedWarning: "⚠️ このパスワードは {count} 件の漏洩で見つかりました。",
     pwnedSafe: "✅ このパスワードは既知の漏洩には見つかりませんでした。",
-    footer: "TTB3AR制作",
+    footer: "ericeisaman制作",
     apiCredit: "漏洩データ提供：",
     showPassword: "パスワードを表示",
     hidePassword: "パスワードを隠す"
